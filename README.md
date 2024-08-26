@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brendaevellyn&show_icons=true&locale=en&layout=compact" alt="brendaevellyn" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=brendaevellyn&show_icons=true&locale=en" alt="brendaevellyn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brendaevellyn&" alt="brendaevellyn" /></p>
