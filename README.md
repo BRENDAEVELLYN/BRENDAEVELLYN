@@ -23,7 +23,7 @@ I am passionate about technology and data, always seeking to learn and apply inn
 - **Enhance advanced techniques** in Machine Learning and Artificial Intelligence.
 - **Contribute to the open-source community** and collaborate on projects that make a difference.
 - **Develop impactful solutions** that help businesses and organizations make better, faster data-driven decisions.
-=========================================================================================
+=====================================================================================
 
 # Olá 👋, Eu sou Brenda Evellyn
 
